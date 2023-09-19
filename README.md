@@ -1,6 +1,16 @@
 ---
 description: Добро пожаловать в GitBook "Serverify"!
-layout: landing
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # 📋 Начало
